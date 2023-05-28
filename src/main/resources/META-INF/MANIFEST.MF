@@ -1,0 +1,2 @@
+Rsrc-Main-Class: com.javarush.games.racer.RacerGame
+
